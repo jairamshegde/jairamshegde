@@ -1,5 +1,12 @@
 ### Hi there 👋 I'm Jairam Hegde. Welcome to my profile
-🌱 I’m currently learning <b>Business Intelligenece and Data analysis</b> and want to make career in this field. 
+🌱 I’m currently learning <b>Business Intelligenece and Data analysis</b>, looking for the opportunity to make the career in this field. <br>
+🔭 I’m currently working on multiple projects
+            * Excel - data visualization and dashboard project
+                    - learning VBA for automation
+            * Sql   - one project on IMBD is completed(report making pending)
+                    - one more project yet to sart
+            * Python -  basics concepts prctice going on
+                     - part of datascience pandas and visualization practice going (you can check out my repository)
 <!--
 **jairamshegde/jairamshegde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
