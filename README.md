@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Jairam Hegde. Welcome to my profile
+🌱 I’m currently learning business intelligenece and data analysis and want to make career in this field. 
 <!--
 **jairamshegde/jairamshegde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
