@@ -1,5 +1,5 @@
 # About Me
-I have a degree in Electronics and communication Engineering. Currently I'm making transition towards datascience because of following reasons 
+I have a degree in Electronics and Communication Engineering. Currently I'm making transition towards datascience because of following reasons 
   1. It has maths ( which is covered in engineering)
   2. It has programming ( currently learning)
   3. Get to ask question in every stage of the project.
