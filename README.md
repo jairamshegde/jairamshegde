@@ -23,9 +23,9 @@ I have a degree in Electronics and Communication Engineering. Currently I'm maki
 8. ggplot2 📊
 
 # My virtual mentors:
-* [Srikanth Varma sir AppliedAI](https://www.youtube.com/channel/UCJINtWke3-FMz2WuEltWDVQ)
-* [Nathaneil Data talks](https://www.youtube.com/channel/UCQTQ0AbOupKNxKKY-_x46OQ)
-* [Kevin Markham dataschool](https://www.youtube.com/user/dataschool)
+* [Srikanth Varma from AppliedAI](https://www.youtube.com/channel/UCJINtWke3-FMz2WuEltWDVQ)
+* [Nathaneil from Data talks](https://www.youtube.com/channel/UCQTQ0AbOupKNxKKY-_x46OQ)
+* [Kevin Markham from dataschool](https://www.youtube.com/user/dataschool)
 * [Krishna Naik](https://www.youtube.com/user/krishnaik06)
 
 # Get in touch 🤝
