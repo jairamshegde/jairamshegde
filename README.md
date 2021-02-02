@@ -1,12 +1,5 @@
 # About Me
-I have a degree in Electronics and Communication Engineering. Currently I'm making transition towards datascience because of following reasons 
-  1. It has maths ( which is covered in engineering)
-  2. It has programming ( currently learning)
-  3. Get to ask question in every stage of the project.
-  4. making me a better problem solver in life.
-  
-# My view towards life: 👁️
-> <b>Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.</b>
+A Data Science enthusiast with hands-on knowledge of using predictive modeling concepts to solve wide variety problems on medium sized datasets using python.Also, adept at R,SQL and Excel.
 
 # Programming Languages 💻
 1. Python 🐍
@@ -21,13 +14,6 @@ I have a degree in Electronics and Communication Engineering. Currently I'm maki
 6. tidyverse 🌟
 7. dplyr
 8. ggplot2 📊
-
-# My virtual mentors:
-* [Srikanth Varma from AppliedAI](https://www.youtube.com/channel/UCJINtWke3-FMz2WuEltWDVQ)
-* [Nathaneil from Data talks](https://www.youtube.com/channel/UCQTQ0AbOupKNxKKY-_x46OQ)
-* [Kevin Markham from dataschool](https://www.youtube.com/user/dataschool)
-* [Krishna Naik](https://www.youtube.com/user/krishnaik06)
-
 # Get in touch 🤝
 * <b>Linked in :</b> 
 * <b>Gmail :</b>
