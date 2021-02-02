@@ -1,5 +1,5 @@
 # About Me
-A Data Science enthusiast with hands-on knowledge of using predictive modeling concepts to solve wide variety problems on medium sized datasets using python.Also, adept at R,SQL and Excel.
+A Data Science enthusiast with hands-on knowledge of using predictive modeling concepts to solve wide variety problems on medium sized datasets using python. Also, adept at R,SQL and Excel.
 
 # Programming Languages 💻
 1. Python 🐍
