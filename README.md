@@ -4,6 +4,7 @@ A Data Science enthusiast with hands-on knowledge of using predictive modeling c
 # Programming Languages 💻
 1. Python 🐍
 2. SQL (MySql)
+3. Pyspark 
 # Datascience Libraries 📦 
 1. Pandas 🐼
 2. Numpy 🧮
