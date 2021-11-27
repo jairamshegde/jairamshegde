@@ -7,13 +7,13 @@ A DataScience enthusiast | Life long learner | Nonlinear thinker | Creative | Ob
 3. Pyspark 
 # Datascience Libraries 📦 
 1. Pandas 🐼
-2. Numpy 🧮
-3. matplotlib 📈
-4. seaborn  ✨
-5. sklearn 🤖
+2. Dask 🏢
+3. sklearn 🤖
+4. pyspark ✨
+5. RLTK ans Splink 🔗
 
 # Get in touch 🤝
 * <b>Linked in :</b> 
-* <b>Gmail :</b>
-* <b> Blog : </b>
-* <b> Blog : </b>
+* <b> Blog :</b> [The Normal Blog](https://thegaussiancurves.blogspot.com/)
+* <b>Kaggle :</b>
+
