@@ -10,7 +10,7 @@ A DataScience enthusiast | Life long learner | Nonlinear thinker | Creative | Ob
 2. Dask 🏢
 3. sklearn 🤖
 4. pyspark ✨
-5. RLTK ans Splink 🔗
+5. RLTK and Splink 🔗
 
 # Get in touch 🤝
 * <b>Linked in :</b> 
