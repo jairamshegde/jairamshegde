@@ -1,5 +1,5 @@
-# About Me
-A DataScience enthusiast | Life long learner | Nonlinear thinker | Creative | Obsidian user
+# About Me 
+A DataScience enthusiast | Life long learner | Nonlinear thinker | Creative | [Obsidian](https://obsidian.md/) user
 
 # Programming Languages 💻
 1. Python 🐍
