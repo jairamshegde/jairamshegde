@@ -14,6 +14,6 @@ A DataScience enthusiast | Life long learner | Nonlinear thinker | Creative | [O
 
 # Get in touch 🤝
 * <b>Linked in :</b> 
-* <b> Blog :</b> [The Normal Blog](https://thegaussiancurves.blogspot.com/)
+* <b> Blog :</b> [The Iris Park](https://jairamshegde.github.io/website/)
 * <b>Kaggle :</b>
 
