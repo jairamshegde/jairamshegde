@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [http://example.come](http://example.come)
 
-- 📝 I regularly write articles on [NLP, Docker setup, Spark Working](NLP, Docker setup, Spark Working)
+- 📝 I regularly write articles on [medium](medium.com)
 
 - 💬 Ask me about **Docker, Spark, Dask, Pandas,Keras,OpenCV**
 
