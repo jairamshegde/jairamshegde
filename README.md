@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jairam Hegde</h1>
-<h3 align="center">AI Engineer | GenAI Application Developer</h3>
+<h3 align="center">Lead AI Engineer</h3>
 <p align="center">
-  <em>4.5+ years building production-ready AI systems | Specializing in RAG, LLM Applications & Intelligent Automation</em>
+  <em> 5+ years in engineering | Shipping agentic AI in enterprise & SaaS | Systems thinker</em>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 **About Me**
 
-I'm an AI Engineer with 4.5+ years of experience designing and deploying enterprise-scale GenAI applications. I specialize in building robust RAG systems, advanced prompt engineering, and creating production-ready AI solutions that solve real business problems.
+Lead AI Engineer. I take ambiguous AI ideas and turn them into production systems — agentic RAG, multi-agent orchestration, regulated enterprise.
 
 **Currently focusing on:**
 - 🏗️ **Enterprise RAG Systems** - Advanced contextual retrieval at scale
