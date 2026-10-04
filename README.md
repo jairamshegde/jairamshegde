@@ -1,76 +1,43 @@
-<h1 align="center">Hi 👋, I'm Jairam Hegde</h1>
-<h3 align="center">Lead AI Engineer</h3>
+<h1 align="center">Jairam Hegde</h1>
+<h3 align="center">AI Engineer: agents, retrieval, and the plumbing that keeps them honest</h3>
 <p align="center">
-  <em> 5+ years in engineering | Shipping agentic AI in enterprise & SaaS | Systems thinker</em>
+  <em>Engineering since April 2021. Still suspicious of anything that works on the first try.</em>
 </p>
 
 <p align="center">
-  <a href="mailto:devjairamish@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="assets/pico-wave.gif" width="140" alt="Pico the penguin, waving">
+</p>
+
+<p align="center">
+  <a href="https://jairamshegde.github.io/thearchitectsmind/"><img src="https://img.shields.io/badge/The_Architect's_Mind-000000?style=for-the-badge&logo=astro&logoColor=white"/></a>
   <a href="https://linkedin.com/in/jairamshegde"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://thearchitectsmind.hashnode.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="mailto:devjairamish@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+## What I'm working on
 
-## 👨‍💻 **About Me**
+| Track | What's happening |
+| --- | --- |
+| **Building** | `mingraph` phase 7 — the agent loop, where state and streaming stop being optional |
+| **Shipping** | `LinkMark` — chat-first bookmark manager; backend and RAG agents land next week |
+| **Learning** | Agent evals. "It feels better" is not a metric |
+| **Writing** | One post per phase — the design decisions, and the things that broke |
 
-Lead AI Engineer. I take ambiguous AI ideas and turn them into production systems — agentic RAG, multi-agent orchestration, regulated enterprise.
+## Things I've built
 
-**Currently focusing on:**
-- 🏗️ **Enterprise RAG Systems** - Advanced contextual retrieval at scale
-- 🎯 **Context & Prompt Engineering** - Optimizing LLM performance
-- 📊 **MLOps** - MLflow integration for monitoring and observability
-- 🤖 **Agentic AI** - Designing intelligent automation workflows
+**[mingraph](https://github.com/jairamshegde/mingraph)** rebuilds LangChain and LangGraph from scratch in plain Python, one design pattern per phase. Six done: provider wrappers, messages, tools, memory, composable steps, retrieval. Each phase has a writeup.
 
-## 🚀 **What I Bring to the Table**
+**[active-learning-skills](https://github.com/jairamshegde/active-learning-skills)** is a set of three Claude Agent Skills that turn what I read and watch into notes I retain. The model handles compression and fact-checking. It also quizzes me, which is the only reliable way to find what I forgot.
 
-- ✅ **Production Experience**: Deployed GenAI applications serving enterprise users
-- ✅ **Full-Stack AI**: From data pipelines to LLM integration to deployment
-- ✅ **Best Practices**: MLflow for tracking, context engineering for accuracy
-- ✅ **Modern Tools**: Claude Code, LangChain, FastAPI, Azure AI, Vector DBs
+**LinkMark** rethinks bookmark management chat-first: you ask for the thing you half-remember instead of digging through folders, in one unified UI. Frontend is complete locally; the FastAPI backend and multi-agent RAG layer land next week. Recommendations and an Obsidian-style graph view come after. *Repo link soon.*
 
+## What I actually do
 
-## 💡 **Key Areas of Expertise**
+I'm an AI engineer who likes understanding how things work — usually by building them, breaking them, and rebuilding them slightly better. That instinct is most of why `mingraph` exists.
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/RAG%20Systems-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white"/><br/>
-      <b>RAG Architecture</b><br/>
-      <sub>Advanced contextual retrieval<br/>Enterprise-scale systems<br/>Vector database optimization</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Prompt%20Engineering-4ECDC4?style=for-the-badge&logo=openai&logoColor=white"/><br/>
-      <b>Prompt Engineering</b><br/>
-      <sub>Context optimization<br/>Chain-of-thought techniques<br/>Production LLM performance</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/LLM%20Apps-95E1D3?style=for-the-badge&logo=anthropic&logoColor=white"/><br/>
-      <b>LLM Applications</b><br/>
-      <sub>Full-stack AI development<br/>API integration<br/>Production deployment</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Agentic%20AI-F38181?style=for-the-badge&logo=robot&logoColor=white"/><br/>
-      <b>Agentic Workflows</b><br/>
-      <sub>Intelligent automation<br/>Multi-agent systems<br/>LangGraph orchestration</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/MLOps-AA96DA?style=for-the-badge&logo=mlflow&logoColor=white"/><br/>
-      <b>MLOps & Observability</b><br/>
-      <sub>MLflow tracking<br/>Model monitoring<br/>Performance optimization</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Cloud%20AI-4A90E2?style=for-the-badge&logo=microsoftazure&logoColor=white"/><br/>
-      <b>Cloud Deployment</b><br/>
-      <sub>Azure AI services<br/>Scalable architectures<br/>Docker containerization</sub>
-    </td>
-  </tr>
-</table>
+Day to day it's agents, retrieval and the architecture holding them together, mostly in enterprise settings where "the model said so" won't survive an audit. The interesting part is rarely the model. It's what goes into the context window and why, where retrieval quietly fails, how you know a change helped, and what happens on the bad day.
 
-
-
-## 🛠️ **Tech Stack**
+## Tech Stack
 
 <table>
 
@@ -84,13 +51,7 @@ Lead AI Engineer. I take ambiguous AI ideas and turn them into production system
 
   <!-- AI & LLMs -->
   <tr>
-    <td><strong>🧠 AI & LLMs</strong></td>
-    <td align="center">
-      <a href="https://openai.com/chatgpt">
-        <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/openai.svg" width="45"/><br/>
-        ChatGPT
-      </a>
-    </td>
+    <td><strong>AI &amp; LLMs</strong></td>
     <td align="center">
       <a href="https://www.anthropic.com/">
         <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/anthropic.svg" width="32"/><br/>
@@ -104,16 +65,22 @@ Lead AI Engineer. I take ambiguous AI ideas and turn them into production system
       </a>
     </td>
     <td align="center">
-      <a href="https://antigravity.google/">
-        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini-color.png" width="40"/><br/>
-        Antigravity
+      <a href="https://openai.com/chatgpt">
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/openai.svg" width="45"/><br/>
+        ChatGPT
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/obra/superpowers">
+        <img src="https://github.com/obra.png" width="40"/><br/>
+        Superpowers
       </a>
     </td>
   </tr>
 
-  <!-- LLM Frameworks -->
+  <!-- Agent & Web Frameworks -->
   <tr>
-    <td><strong>🧩 LLM & Web Frameworks</strong></td>
+    <td><strong>Agent &amp; Web Frameworks</strong></td>
     <td align="center">
       <a href="https://python.langchain.com/">
         <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/langchain.svg" width="45"/><br/>
@@ -127,71 +94,51 @@ Lead AI Engineer. I take ambiguous AI ideas and turn them into production system
       </a>
     </td>
     <td align="center" width="96">
-  <a href="https://the-pocket.github.io/PocketFlow/" target="_blank">
-    <img src="https://raw.githubusercontent.com/The-Pocket/.github/main/assets/title.png" width="50"/><br/>
-    PocketFlow
-  </a>
-</td>
-  <td align="center">
-    <a href="https://fastapi.tiangolo.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45"/><br/>
-       FastAPI
-    </a>
-  </td>
-  </tr>
-
-  <!-- ML / DL -->
-  <tr>
-    <td><strong>🤖 ML & Deep Learning</strong></td>
-    <td align="center">
-      <a href="https://pytorch.org/">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/><br/>
-        PyTorch
+      <a href="https://the-pocket.github.io/PocketFlow/" target="_blank">
+        <img src="https://raw.githubusercontent.com/The-Pocket/.github/main/assets/title.png" width="50"/><br/>
+        PocketFlow
       </a>
     </td>
     <td align="center">
-    <a href="https://scikit-learn.org/">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/><br/>
-      scikit-learn
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://numpy.org/">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="32"/><br/>
-      NumPy
-    </a>
-  </td>
-<td align="center">
-  <a href="https://mlflow.org/">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mlflow.svg" width="32"/><br/>
-    MLflow
-  </a>
-</td>
-
-  </tr>
-
-  <!-- Data -->
-  <tr>
-    <td><strong>🗄️ Data & Vector Stores</strong></td>
-    <td align="center">
-      <a href="https://www.postgresql.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32"/><br/>
-        PostgreSQL
+      <a href="https://fastapi.tiangolo.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45"/><br/>
+        FastAPI
       </a>
     </td>
+  </tr>
+
+  <!-- Data & Retrieval -->
+  <tr>
+    <td><strong>Data &amp; Retrieval</strong></td>
     <td align="center">
       <a href="https://qdrant.tech/">
         <img src="https://qdrant.tech/img/brand-resources-logos/qdrant-brandmark-red.svg" width="32"/><br/>
         Qdrant
       </a>
     </td>
-    <td></td>
-    <td></td>
+    <td align="center">
+      <a href="https://supabase.com/">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/supabase.svg" width="32"/><br/>
+        Supabase
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://huggingface.co/">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32"/><br/>
+        Hugging Face
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://ollama.com/">
+        <img src="https://ollama.com/public/ollama.png" width="32"/><br/>
+        Ollama
+      </a>
+    </td>
   </tr>
 
-  <!-- Cloud -->
+  <!-- Cloud & Ops -->
   <tr>
-    <td><strong>☁️ Cloud & Infra</strong></td>
+    <td><strong>Cloud &amp; Ops</strong></td>
     <td align="center">
       <a href="https://azure.microsoft.com/">
         <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/><br/>
@@ -213,15 +160,33 @@ Lead AI Engineer. I take ambiguous AI ideas and turn them into production system
     <td></td>
   </tr>
 
-  <!-- Dev Tools -->
+  <!-- Evals & Observability -->
   <tr>
-    <td><strong>🛠️ Dev & Tooling</strong></td>
+    <td><strong>Evals &amp; Observability</strong></td>
     <td align="center">
-      <a href="https://git-scm.com/">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32"/><br/>
-        Git
+      <a href="https://arize.com/phoenix/">
+        <img src="https://github.com/Arize-ai.png" width="32"/><br/>
+        Arize Phoenix
       </a>
     </td>
+    <td align="center">
+      <a href="https://deepeval.com/">
+        <img src="https://github.com/confident-ai.png" width="32"/><br/>
+        DeepEval
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/explodinggradients/ragas">
+        <img src="https://github.com/explodinggradients.png" width="32"/><br/>
+        Ragas
+      </a>
+    </td>
+    <td></td>
+  </tr>
+
+  <!-- Dev & Tooling -->
+  <tr>
+    <td><strong>Dev &amp; Tooling</strong></td>
     <td align="center">
       <a href="https://www.python.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/><br/>
@@ -229,50 +194,31 @@ Lead AI Engineer. I take ambiguous AI ideas and turn them into production system
       </a>
     </td>
     <td align="center">
-      <a href="https://huggingface.co/">
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32"/><br/>
-        Hugging Face
+      <a href="https://git-scm.com/">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32"/><br/>
+        Git
       </a>
     </td>
-        <td align="center">
-      <a href="https://ollama.com/">
-        <img src="https://ollama.com/public/ollama.png" width="32"/><br/>
-        Ollama
-      </a>
-    </td>
+    <td></td>
+    <td></td>
   </tr>
 
 </table>
 
+## How I work
 
-## 🎯 **Current Learning Journey**
+- I run feature work as subagent-driven development with Superpowers. A plan goes first, each task gets a fresh subagent, and every change clears two reviews: spec compliance, then code quality. Delivery is faster because the review sits inside the loop instead of at the end.
+- I spend more time on the harness than on the prompt: the skills and scaffolding the model runs inside. `active-learning-skills` is one I built for myself.
+- I rebuild things small until I can explain them. Now that the agent writes most of the code, being able to explain it matters more, not less.
+- I treat a RAG system as a search product. A chunk that was never retrieved can't be recovered downstream, so I score the two halves separately: context precision and recall on retrieval, faithfulness and answer relevancy on generation. A bad answer then points at a cause instead of a vibe.
+- I reach for an agent last, not first. If the steps are knowable at design time it's a pipeline, and a pipeline is cheaper, faster and testable against fixed inputs. An agent earns the nondeterminism it adds only when the next step depends on what the last one returned.
 
-- Building advanced agentic systems with Claude Code and custom skills
-- Enterprise automation patterns (and knowing when NOT to use agents!)
-- Voice-enabled GenAI applications for productivity
-- MLOps best practices for production LLM applications
+## Elsewhere
 
-
-## 💬 **Let's Talk About**
-
-- 🎨 Advanced Prompt Engineering techniques
-- 🏗️ RAG system design and optimization
-- 🤖 LLM-powered learning and productivity tools
-- 📊 Deploying AI at enterprise scale
-
-
-
-## 📫 **Get in Touch**
-
-- 💼 **LinkedIn**: [Jairam Hegde](https://linkedin.com/in/jairamshegde)
-- 📧 **Email**: devjairamish@gmail.com
-- 🌐 **Portfolio**: [Hashnode Blog](https://thearchitectsmind.hashnode.dev/)
-
+- **Blog** — [The Architect's Mind](https://jairamshegde.github.io/thearchitectsmind/)
+- **LinkedIn** — [Jairam Hegde](https://linkedin.com/in/jairamshegde)
+- **Email** — [devjairamish@gmail.com](mailto:devjairamish@gmail.com)
 
 <p align="center">
-  <i>⚡ Building exciting tools and application using AI Engineering and GenAI </i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jairamshegde&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <i>Open to conversations about agents, retrieval, and graphs.</i>
 </p>
